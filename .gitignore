@@ -1,6 +1,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/c++,intellij,java,macos,clion
 # Edit at https://www.toptal.com/developers/gitignore?templates=c++,intellij,java,macos,clion
 
+*.idea/
+
 ### C++ ###
 # Prerequisites
 *.d
@@ -89,6 +91,7 @@ cmake-build-*/
 
 # IntelliJ
 out/
+*.iml
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
