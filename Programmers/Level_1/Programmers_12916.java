@@ -1,17 +1,17 @@
-package Programmers.Level_1;
+import java.util.*;
 
-public class Programmers_12916 {
-
+class Solution {
     boolean solution(String s) {
         int count = 0;
         boolean answer = true;
+        s = s.toUpperCase();
         char[] cArr = s.toCharArray();
 
         for(char ch : cArr) {
-            if(ch == 'p' || ch == 'P') {
+            if(ch == 'P') {
                 count++;
             }
-            else if(ch == 'y' || ch == 'Y') {
+            else if(ch == 'Y') {
                 count--;
             }
         }
