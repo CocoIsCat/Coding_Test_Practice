@@ -1,15 +1,15 @@
 import java.util.*;
+import java.lang.*;
 
-/*시간 초과*/
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        boolean result = false;
         int N, M;
         N = sc.nextInt();
         M = sc.nextInt();
         boolean[][] arrGraph = new boolean[N][N];
         List<List<Integer>> listGraph = new ArrayList<>();
+        List<int[]> edgeGraph = new ArrayList<>();
         for (int i = 0; i < N; i++) {
             listGraph.add(new ArrayList<>());
         }
@@ -20,46 +20,29 @@ public class Main {
             arrGraph[p2][p1] = true;
             listGraph.get(p1).add(p2);
             listGraph.get(p2).add(p1);
+            edgeGraph.add(new int[]{p1, p2});
+            edgeGraph.add(new int[]{p2, p1});
         }
-        for (int i = 0; i < N; i++) {
-            List<Integer> path = new ArrayList<>();
-            path.add(i);
-            List<Integer> node1 = listGraph.get(i);
-            for (int j = 0; j < node1.size(); j++) {
-                if (!path.contains(node1.get(j))) {
-                    List<Integer> node2 = listGraph.get(node1.get(j));
-                    path.add(node1.get(j));
-                    for (int l = 0; l < node2.size(); l++) {
-                        if (!path.contains(node2.get(l))) {
-                            List<Integer> node3 = listGraph.get(node2.get(l));
-                            path.add(node2.get(l));
-                            for (int k = 0; k < node3.size(); k++) {
-                                if (!path.contains(node3.get(k))) {
-                                    List<Integer> node4 = listGraph.get(node3.get(k));
-                                    path.add(node3.get(k));
-                                    for (int n = 0; n < node4.size(); n++) {
-                                        if (!(path.contains(node4.get(n)))) {
-                                            int node5 = node3.get(k);
-                                            path.add(node3.get(k));
-                                            for (int m = 0; m < N; m++) {
-                                                if (arrGraph[node5][m] == true) {
-                                                    if (!path.contains(m)) {
-                                                        result = true;
-                                                    }
-                                                }
-                                            }
-                                        }
-                                    }
-                                }
+
+        for(int i = 0; i < edgeGraph.size(); i++) {
+            for(int j = 0; j < edgeGraph.size(); j++) {
+                int A = edgeGraph.get(i)[0];
+                int B = edgeGraph.get(i)[1];
+                int C = edgeGraph.get(j)[0];
+                int D = edgeGraph.get(j)[1];
+                if (A != C && A != D && B != C && B != D) {
+                    if (arrGraph[B][C]) {
+                        for (int E : listGraph.get(D)) {
+                            if (A == E || B == E || C == E || D == E) {
+                                continue;
                             }
+                            System.out.println(1);
+                            System.exit(0);
                         }
                     }
                 }
             }
         }
-        if (result)
-            System.out.println(1);
-        else
-            System.out.println(0);
+        System.out.println(0);
     }
 }
