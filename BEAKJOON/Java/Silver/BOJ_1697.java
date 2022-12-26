@@ -1,41 +1,39 @@
-package BEAKJOON.Java.Silver;
-
 import java.util.*;
+import java.io.*;
 
 class Main {
-    static boolean[] visit = new boolean[100001];
-    static Map<Integer, List<Integer>> graph = new HashMap<>();
-    static Queue<int[]> q = new LinkedList<>();
+    static int[] visit = new int[100001];
+    static Queue<Integer> q = new LinkedList<>();
     static int start;
     static int finish;
-
     static int result;
-    static void DFS(int N) {
+
+    static void DFS() {
         while(!q.isEmpty()) {
-            int[] node = q.poll();
-            if (node[0] == finish) {
-                result = node[1];
+            int node = q.poll();
+            if (node == finish) {
+                result = visit[node] + 1;
                 break;
             }
-            if(!visit[node[0]]) {
-                visit[node[0]] = true;
-                int[] make = {-1, +1, node[0]};
-                graph.put(node[0], new ArrayList<>());
-                for(int i : make) {
-                    if (node[0] + i >= 0 && node[0] + i <= 100000) {
-                        graph.get(node[0]).add(node[0] + i);
-                        q.offer(new int[]{node[0] + i, node[1] + 1});
+            int[] make = {-1, +1, node};
+            for(int i : make) {
+                if(node + i >= 0 && node + i <= 100000) {
+                    if(visit[node + i] == -1) {
+                        q.offer(node + i);
+                        visit[node + i] = visit[node] + 1;
                     }
                 }
             }
         }
     }
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        start = sc.nextInt();
-        finish = sc.nextInt();
-        q.offer( new int[] {start, 0});
-        DFS(start);
+    public static void main(String[] args) throws IOException{
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st = new StringTokenizer(br.readLine());
+        start = Integer.parseInt(st.nextToken());
+        finish = Integer.parseInt(st.nextToken());
+        Arrays.fill(visit, -1);
+        q.offer(start);
+        DFS();
         System.out.println(result);
 
     }
