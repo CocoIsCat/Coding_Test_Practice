@@ -67,6 +67,7 @@
 | 문제 번호 | 문제 이름                                          | 코드                                                                                                                | 풀이                                                                                |
 |-------|------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
 | 1780  | [종이의 개수](https://www.acmicpc.net/problem/1780) | [BOJ_1780.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/master/BEAKJOON/Java/Silver/BOJ_1780.java) | []()|
+| 1992  | [쿼드트리](https://www.acmicpc.net/problem/1992)   | [BOJ_1992.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/master/BEAKJOON/Java/Silver/BOJ_1992.java) | []()|
 
 ## PROGMAMMERS
 |문제 번호|문제 이름|코드|
