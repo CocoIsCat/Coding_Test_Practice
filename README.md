@@ -42,15 +42,17 @@
 |       | []() | []()   | []()|
 
 ### Graph
-| 문제 번호 | 문제 이름                                   | 코드                                                                                                                  | 풀이                                                                                |
-|-------|-----------------------------------------|---------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+| 문제 번호 | 문제 이름                                                  | 코드                                                                                                            | 풀이                                                                                |
+|-------|--------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
 | 1389  | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | [1389.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/master/BEAKJOON/Java/Silver/BOJ_1389.java) | []()|
-|       | []() | []()   | []()|
+| 2178  | [미로 탐색](https://www.acmicpc.net/problem/2178)                                              | [2178.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/534f4fc3fb95d5d47824502e36cc8a689b12ae16/BEAKJOON/Java/Silver/BOJ_2178.java)                                                                                                 | []()|
+|       | []()                                                   | []()                                                                                                          | []()|
 
 ### Graph Search
 | 문제 번호 | 문제 이름                                   | 코드                                                                                                            | 풀이                                                                                |
 |-------|-----------------------------------------|---------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
 | 1389  | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | [1389.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/master/BEAKJOON/Java/Silver/BOJ_1389.java) | []()|
+| 2178  | [미로 탐색](https://www.acmicpc.net/problem/2178)                                              | [2178.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/534f4fc3fb95d5d47824502e36cc8a689b12ae16/BEAKJOON/Java/Silver/BOJ_2178.java)                                                                                                 | []()|
 |       | []() | []()   | []()|
 
 ### Greedy Algorithm
@@ -67,7 +69,7 @@
 | 문제 번호 | 문제 이름                                          | 코드                                                                                                                | 풀이                                                                                |
 |-------|------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
 | 1780  | [종이의 개수](https://www.acmicpc.net/problem/1780) | [BOJ_1780.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/master/BEAKJOON/Java/Silver/BOJ_1780.java) | []()|
-| 1992  | [쿼드트리](https://www.acmicpc.net/problem/1992)   | [BOJ_1992.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/master/BEAKJOON/Java/Silver/BOJ_1992.java) | []()|
+| 1992  | [쿼드트리](https://www.acmicpc.net/problem/1992)   | [BOJ_1992.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/master/BEAKJOON/Java/Silver/BOJ_1992.java) | [[코딩테스트/백준 알고리즘] 1992번 - 쿼드트리 (Java, 자바 풀이)](https://cocoiscat.tistory.com/160)|
 
 ## PROGMAMMERS
 |문제 번호|문제 이름|코드|
