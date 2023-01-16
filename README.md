@@ -42,20 +42,20 @@
 |       | []() | []()   | []()|
 
 ### Graph
-| 문제 번호 | 문제 이름                                                  | 코드                                                                                                                                              | 풀이                                                                                |
-|-------|--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
-| 1389  | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | [1389.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/master/BEAKJOON/Java/Silver/BOJ_1389.java)                                   | []()|
-| 2178  | [미로 탐색](https://www.acmicpc.net/problem/2178)                                              | [2178.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/534f4fc3fb95d5d47824502e36cc8a689b12ae16/BEAKJOON/Java/Silver/BOJ_2178.java) | []()|
-| 2667  | [단지번호붙이기](https://www.acmicpc.net/problem/2667)                                                   | [2667.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/58112890663c523892840d3666b896bcfd82cde7/BEAKJOON/Java/Silver/BOJ_2667.java) | []()|
-|       | []()                                                   | []()                                                                                                                                            | []()|
+| 문제 번호 | 문제 이름                                                  | 코드                                                                                                                                                  | 풀이                                                                                |
+|-------|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+| 1389  | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | [BOJ_1389.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/master/BEAKJOON/Java/Silver/BOJ_1389.java)                                   | []()|
+| 2178  | [미로 탐색](https://www.acmicpc.net/problem/2178)                                              | [BOJ_2178.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/534f4fc3fb95d5d47824502e36cc8a689b12ae16/BEAKJOON/Java/Silver/BOJ_2178.java) | []()|
+| 2667  | [단지번호붙이기](https://www.acmicpc.net/problem/2667)                                                   | [BOJ_2667.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/58112890663c523892840d3666b896bcfd82cde7/BEAKJOON/Java/Silver/BOJ_2667.java) | []()|
+|       | []()                                                   | []()                                                                                                                                                | []()|
 
 ### Graph Search
-| 문제 번호 | 문제 이름                                   | 코드                                                                                                            | 풀이                                                                                |
-|-------|-----------------------------------------|---------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
-| 1389  | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | [1389.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/master/BEAKJOON/Java/Silver/BOJ_1389.java) | []()|
-| 2178  | [미로 탐색](https://www.acmicpc.net/problem/2178)                                              | [2178.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/534f4fc3fb95d5d47824502e36cc8a689b12ae16/BEAKJOON/Java/Silver/BOJ_2178.java)                                                                                                 | []()|
-| 2667  | [단지번호붙이기](https://www.acmicpc.net/problem/2667)                                                   | [2667.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/58112890663c523892840d3666b896bcfd82cde7/BEAKJOON/Java/Silver/BOJ_2667.java) | []()|
-|       | []() | []()   | []()|
+| 문제 번호 | 문제 이름                                   | 코드                                                                                                                                                  | 풀이                                                                                |
+|-------|-----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+| 1389  | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | [BOJ_1389.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/master/BEAKJOON/Java/Silver/BOJ_1389.java)                                   | []()|
+| 2178  | [미로 탐색](https://www.acmicpc.net/problem/2178)                                              | [BOJ_2178.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/534f4fc3fb95d5d47824502e36cc8a689b12ae16/BEAKJOON/Java/Silver/BOJ_2178.java) | []()|
+| 2667  | [단지번호붙이기](https://www.acmicpc.net/problem/2667)                                                   | [BOJ_2667.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/58112890663c523892840d3666b896bcfd82cde7/BEAKJOON/Java/Silver/BOJ_2667.java) | []()|
+|       | []() | []()                                                                                                                                                | []()|
 
 ### Greedy Algorithm
 | 문제 번호 | 문제 이름                                   | 코드                                                                                                                  | 풀이                                                                                |
@@ -63,9 +63,10 @@
 |       | []() | []()   | []()|
 
 ### String
-| 문제 번호 | 문제 이름                                   | 코드                                                                                                                  | 풀이                                                                                |
-|-------|-----------------------------------------|---------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
-|       | []() | []()   | []()|
+| 문제 번호 | 문제 이름     | 코드                | 풀이                                                                                |
+|-------|-----------|-------------------|------------------------------------------------------------|
+| 5525  | [IOIOI](https://www.acmicpc.net/problem/5525) | [BOJ_5525.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/5284ef0d1d817f8d2aa26a0f69cd5189134f9b05/BEAKJOON/Java/Silver/BOJ_5525.java) | []()|
+|       | []()      | []()              | []()|
 
 ### Divide And Conquer
 | 문제 번호 | 문제 이름                                          | 코드                                                                                                                | 풀이                                                                                |
