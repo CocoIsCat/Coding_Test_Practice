@@ -35,34 +35,24 @@
 | 2309  | [일곱 난쟁이](https://www.acmicpc.net/problem/2309) | [BOJ_2309.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/master/BEAKJOON/Java/Bronze/BOJ_2309.java)   |[[코딩테스트/백준 알고리즘] 2309번 : 일곱 난쟁이 (자바, Java 풀이)](https://cocoiscat.tistory.com/110)|
 | 2798  | [블랙잭](https://www.acmicpc.net/problem/2798)| [2798.cpp](https://github.com/CocoIsCat/Coding_Test_Practice/blob/master/BEAKJOON/C%2B%2B/Bronze/2798.cpp)          |[[코딩테스트/ 백준 알고리즘] BOJ.2798 :  블랙잭 (C++ 풀이)]()]|
 
-
-### Sorting
-| 문제 번호 | 문제 이름                                   | 코드                                                                                                                 | 풀이                                                                                |
-|-------|-----------------------------------------|--------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
-|       | []() | []()   | []()|
-
 ### Graph
-| 문제 번호 | 문제 이름                                                  | 코드                                                                                                                                                  | 풀이                                                                                |
-|-------|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
-| 1389  | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | [BOJ_1389.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/master/BEAKJOON/Java/Silver/BOJ_1389.java)                                   | []()|
-| 2178  | [미로 탐색](https://www.acmicpc.net/problem/2178)          | [BOJ_2178.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/534f4fc3fb95d5d47824502e36cc8a689b12ae16/BEAKJOON/Java/Silver/BOJ_2178.java) | []()|
-| 2667  | [단지번호붙이기](https://www.acmicpc.net/problem/2667)        | [BOJ_2667.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/58112890663c523892840d3666b896bcfd82cde7/BEAKJOON/Java/Silver/BOJ_2667.java) | []()|
-| 11403 | [경로 찾기](https://www.acmicpc.net/problem/11403)                                              | [11403.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/bce933fac016f738807f36414a95b6d397235301/BEAKJOON/Java/Silver/BOJ_11403.java)   | []()|
-|       | []()                                                   | []()                                                                                                                                                | []()|
+| 문제 번호 | 문제 이름                                                  | 코드                                                                                                                                                | 풀이                                                                          |
+|-------|--------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| 1389  | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | [BOJ_1389.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/master/BEAKJOON/Java/Silver/BOJ_1389.java)                                 | [[코딩테스트/백준 알고리즘] 1389번 - 케빈 베이컨의 6단계 법칙](https://cocoiscat.tistory.com/161) |
+| 2178  | [미로 탐색](https://www.acmicpc.net/problem/2178)          | [BOJ_2178.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/534f4fc3fb95d5d47824502e36cc8a689b12ae16/BEAKJOON/Java/Silver/BOJ_2178.java) | []()                                                                        |
+| 2667  | [단지번호붙이기](https://www.acmicpc.net/problem/2667)        | [BOJ_2667.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/58112890663c523892840d3666b896bcfd82cde7/BEAKJOON/Java/Silver/BOJ_2667.java) | []()                                                                        |
+| 11403 | [경로 찾기](https://www.acmicpc.net/problem/11403)         | [11403.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/bce933fac016f738807f36414a95b6d397235301/BEAKJOON/Java/Silver/BOJ_11403.java) | []()                                                                        |
+| 16928 | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)                                          | [16928.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/master/BEAKJOON/Java/Gold/BOJ_16928.java)                                     | [[코딩테스트/백준 알고리즘] 16928번 - 뱀과 사다리 게임](https://cocoiscat.tistory.com/174)        |
+|       | []()                                                   | []()                                                                                                                                              | []()                                                                        |
 
 ### Graph Search
 | 문제 번호 | 문제 이름                                   | 코드                                                                                                                                                  | 풀이                                                                                |
 |-------|-----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
-| 1389  | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | [BOJ_1389.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/master/BEAKJOON/Java/Silver/BOJ_1389.java)                                   | []()|
+| 1389  | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | [BOJ_1389.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/master/BEAKJOON/Java/Silver/BOJ_1389.java)                                   | [[코딩테스트/백준 알고리즘] 1389번 - 케빈 베이컨의 6단계 법칙](https://cocoiscat.tistory.com/161)|
 | 2178  | [미로 탐색](https://www.acmicpc.net/problem/2178)                                              | [BOJ_2178.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/534f4fc3fb95d5d47824502e36cc8a689b12ae16/BEAKJOON/Java/Silver/BOJ_2178.java) | []()|
 | 2667  | [단지번호붙이기](https://www.acmicpc.net/problem/2667)                                                   | [BOJ_2667.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/58112890663c523892840d3666b896bcfd82cde7/BEAKJOON/Java/Silver/BOJ_2667.java) | []()|
 | 11403 | [경로 찾기](https://www.acmicpc.net/problem/11403)                                              | [11403.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/bce933fac016f738807f36414a95b6d397235301/BEAKJOON/Java/Silver/BOJ_11403.java)   | []()|
 |       | []() | []()                                                                                                                                                | []()|
-
-### Greedy Algorithm
-| 문제 번호 | 문제 이름                                   | 코드                                                                                                                  | 풀이                                                                                |
-|-------|-----------------------------------------|---------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
-|       | []() | []()   | []()|
 
 ### Data Structure
 | 문제 번호 | 문제 이름     | 코드                                                                                                                                               | 풀이                                                                                |
@@ -80,6 +70,25 @@
 |-------|------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
 | 1780  | [종이의 개수](https://www.acmicpc.net/problem/1780) | [BOJ_1780.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/master/BEAKJOON/Java/Silver/BOJ_1780.java) | []()|
 | 1992  | [쿼드트리](https://www.acmicpc.net/problem/1992)   | [BOJ_1992.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/master/BEAKJOON/Java/Silver/BOJ_1992.java) | [[코딩테스트/백준 알고리즘] 1992번 - 쿼드트리 (Java, 자바 풀이)](https://cocoiscat.tistory.com/160)|
+| 1074  | [Z](https://www.acmicpc.net/problem/1074)                                          | [BOJ_1074.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/b763daa2af2527855b21268476d11bb3a1c7df1b/BEAKJOON/Java/Silver/BOJ_1074.java)                                                                                                 | [[코딩테스트/백준 알고리즘] 1074번 - Z (Java, 자바 풀이)](https://cocoiscat.tistory.com/162)|
+
+### Recursion
+| 문제 번호 | 문제 이름                                   | 코드                                                                                                                  | 풀이                                                                                |
+|-------|-----------------------------------------|---------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+| 1074  | [Z](https://www.acmicpc.net/problem/1074)                                          | [BOJ_1074.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/b763daa2af2527855b21268476d11bb3a1c7df1b/BEAKJOON/Java/Silver/BOJ_1074.java)                                                                                                 | [[코딩테스트/백준 알고리즘] 1074번 - Z (Java, 자바 풀이)](https://cocoiscat.tistory.com/162)|
+
+
+### Sorting
+| 문제 번호 | 문제 이름                                   | 코드                                                                                                                 | 풀이                                                                                |
+|-------|-----------------------------------------|--------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+|       | []() | []()   | []()|
+
+### Greedy Algorithm
+| 문제 번호 | 문제 이름                                   | 코드                                                                                                                  | 풀이                                                                                |
+|-------|-----------------------------------------|---------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+|       | []() | []()   | []()|
+
+
 
 ## PROGMAMMERS
 |문제 번호|문제 이름|코드|
