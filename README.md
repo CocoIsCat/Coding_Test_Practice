@@ -35,8 +35,8 @@
 | 4673 | [셀프 넘버](https://www.acmicpc.net/problem/4673) | [4673.cpp](https://github.com/CocoIsCat/Coding_Test_Practice/blob/master/BEAKJOON/C%2B%2B/Silver/4673.cpp) | []() |
 | 7568 | [덩치](https://www.acmicpc.net/problem/7458) | [7568.cpp](https://github.com/CocoIsCat/Coding_Test_Practice/blob/master/BEAKJOON/C%2B%2B/Silver/7568.cpp) | [[코딩테스트/ 백준 알고리즘] BOJ.7568 : 덩치 (C++ 풀이)](https://cocoiscat.tistory.com/15) |
 | 2309 | [일곱 난쟁이](https://www.acmicpc.net/problem/2309) | [BOJ_2309.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/master/BEAKJOON/Java/Bronze/BOJ_2309.java) | [[코딩테스트/백준 알고리즘] 2309번 : 일곱 난쟁이 (자바, Java 풀이)](https://cocoiscat.tistory.com/110) |
-| 2798 | [블랙잭](https://www.acmicpc.net/problem/2798) | [2798.cpp](https://github.com/CocoIsCat/Coding_Test_Practice/blob/master/BEAKJOON/C%2B%2B/Bronze/2798.cpp) | [[코딩테스트/ 백준 알고리즘] BOJ.2798 : 블랙잭 (C++ 풀이)]()[] |
-| 20529 | [가장 가까운 세 사람의 심리적 거리](https://www.acmicpc.net/problem/20529) | [BOJ_20529.java]() | []() |
+| 2798 | [블랙잭](https://www.acmicpc.net/problem/2798) | [2798.cpp](https://github.com/CocoIsCat/Coding_Test_Practice/blob/master/BEAKJOON/C%2B%2B/Bronze/2798.cpp) | []() |
+| 20529 | [가장 가까운 세 사람의 심리적 거리](https://www.acmicpc.net/problem/20529) | [BOJ_20529.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/1d09758692d1801f7c56b268eed8e4d35151563f/BEAKJOON/Java/Silver/BOJ_20529.java) | []() |
 
 ### Graph
 
