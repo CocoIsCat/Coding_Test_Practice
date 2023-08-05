@@ -17,7 +17,7 @@
 | 1003 | [피보나치 함수](https://www.acmicpc.net/problem/1003) | [BOJ_1003.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/master/BEAKJOON/Java/Silver/BOJ_1003.java) | [[코딩테스트/백준 알고리즘] 1003 - 피보나치 함수 (자바, Java 풀이)](https://cocoiscat.tistory.com/133) |
 | 16194 | [카드 구매하기 2](https://www.acmicpc.net/problem/16194) | [BOJ_16194.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/master/BEAKJOON/Java/Silver/BOJ_16194.java) | [[코딩테스트/백준 알고리즘] 16194번 : 카드 구매하기 2 (자바, Java 풀이)](https://cocoiscat.tistory.com/108) |
 | 11052 | [카드 구매하기](https://www.acmicpc.net/problem/11052) | [BOJ_11052.java](https://github.com/CocoIsCat/Coding_Test_Practice/blob/master/BEAKJOON/Java/Silver/BOJ_11052.java) | [[코딩테스트/백준 알고리즘] 11052번 : 카드 구매하기 (자바, Java 풀이)](https://cocoiscat.tistory.com/107) |
-
+| 1149 | [RGB 거리](https://www.acmicpc.net/problem/1149) | []() | []() |
 ### Brute Force
 
 | 문제 번호 | 문제 이름 | 코드 | 풀이 |
